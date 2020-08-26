@@ -9,4 +9,7 @@ Once Node.js is installed, open your command prompt or terminal and **navigate i
 Finally, run `npm start` to start the development server and visit [localhost:8080](http://localhost:8080) to see the running application.
 
 
+
 before you can start make sure that you have   install npm i http-server
+
+is npm run is  not able to show your work at the browser use $ http-server
