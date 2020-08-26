@@ -1,0 +1,61 @@
+{
+    "name":"OHIOH Research App",
+    "short_name": "OHIOH App",
+    "start_url": "/index.html",
+    "scope": ".",
+    "display": "standalone",
+    "background_color":"#245",
+    "theme_color": "#3F51B5",
+    "description": "Research App from the University of applied sciences in Kiel, Germany",
+    "dir": "ltr",
+    "lang": "de",
+    "orientation": "portrait-primary",
+    "related_applications:": [
+        {
+        "platform": "play",
+        "url": "https://play.google.com/store/apps/details?id=org.pathcheck.covidsafepaths&hl=en_US",
+        "id": "com.example.app1"
+        }
+    ],
+    "prefer_related_applications": false,
+        "related_applications": [
+            {
+                "platform": "play",
+                 "id": "com.google.samples.apps.iosched"
+            }
+        ]  ,
+    "icons": [
+        {
+            "src": "/src/images/icons/app-icon-48x48.png",
+            "size": "48x48",
+            "type": "image/png"    
+        },
+        {
+            "src": "/src/images/icons/app-icon-96x96.png",
+            "size": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/src/images/icons/app-icon-144x144.png",
+            "size": "144x144",
+            "type": "image/png"    
+        },
+        {
+            "src": "/src/images/icons/app-icon-256x256.png",
+            "size": "256x256",
+            "type": "image/png" 
+        },
+        {
+            "src": "/src/images/icons/app-icon-384x384.png",
+            "size": "384x384",
+            "type": "image/png" 
+        },
+        {
+            "src": "/src/images/icons/app-icon-512x512.png",
+            "size": "512x512",
+            "type": "image/png"    
+        }      
+    ]
+    
+
+}
